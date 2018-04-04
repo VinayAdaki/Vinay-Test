@@ -1,8 +1,3 @@
-Welcome to the Developer Wiki or DevWiki. 
-That wiki has been 
-
-
-locate and contribute information related to the development, delivery, hosting, and support of applications / programs. We've also intentionally renamed this to include all development topics which can be freely accessible to Deere employees. So, if you're a 
-
-
-.NET, SAP, or C developer, feel free to add information as well! We encourage you to contribute!! If this is your first visit to the wiki, please take a minute to visit the Wiki Charter to learn more about the current state of the wiki, how to make contributions, and other useful information.
+This wiki has been created to help you quickly locate and contribute information related to the development, delivery, hosting, and support of applications / programs. 
+We've also intentionally renamed this to include all development topics which can be freely accessible to Deere employees. So, if you're a .NET, SAP, or C developer, feel free to add information as well! We encourage you to contribute!! 
+If this is your first visit to the wiki, please take a minute to visit the Wiki Charter to learn more about the current state of the wiki, how to make contributions, and other useful information.
